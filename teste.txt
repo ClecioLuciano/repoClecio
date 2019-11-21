@@ -1,12 +1,4 @@
-<<<<<<< HEAD
+Desta vez vamos ver se será mais fácil!!
 
 
-
-
-
-
-
-
-=======
->>>>>>> 6800c40d05cbaf427c1e173ca5905474c13f403f
 Agora o conteúdo do arquivo foi modificado!!!
